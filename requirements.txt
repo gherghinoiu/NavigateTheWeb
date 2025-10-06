@@ -1,0 +1,8 @@
+# requirements.txt
+
+# For web browser automation
+selenium
+webdriver-manager
+
+# For managing environment variables (secrets)
+python-dotenv
